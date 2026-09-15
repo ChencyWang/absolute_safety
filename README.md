@@ -1,4 +1,4 @@
-# Disclaimer: The teaching demonstration software is for Demo protection, not a security tool for protecting commercial software
+### Disclaimer: The teaching demonstration software is for Demo protection, not a security tool for protecting commercial software
 Absolute Safety
 A personal Windows console program written in C++.
 Overview
