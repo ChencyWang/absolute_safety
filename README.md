@@ -13,4 +13,4 @@ Environment
 Platform: Windows only
 Compiler: MSVC / MinGW-w64
 Dependencies: Windows exclusive API (windows.h, conio.h)
-## It is protected. If you do not read the source code or perform reverse analysis, you cannot crack it.
+## Tip:It is protected. If you do not read the source code or perform reverse analysis, you cannot crack it.
