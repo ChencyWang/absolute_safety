@@ -6,7 +6,6 @@ This program implements a multi-stage sequential verification flow.
 All verification attempts are single-shot; any wrong input will close the program immediately.  
 Features  
 Masked input for sensitive content, support backspace  
-Custom console text color utility  
 Offline local execution, no network transmission  
 Automatic browser opening after the first verification stage  
 Series verification chain, no skip mechanism  
